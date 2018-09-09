@@ -44,5 +44,6 @@ Java Mustache template engine Spring boot integration
 
 
   - include them
-      ```<div class="container">{{>layout/post}}</div>
+      ```
+      <div class="container">{{>layout/post}}</div>
       ```
